@@ -2,7 +2,7 @@
 This script is to locate the axis of where you want a Tkinter application (Made it for my Mute_Checker) [Link:](https://github.com/Malik403/Mute_Checker)
 
 
-This script includes the x, y, negativex, and negative y axis of your screen. This will print the axis so you can just copy and paste it inside of the Mute Checker script.
+This script includes the x, y, negativex, and negative y axis of your screen. This will print the axis so you can just copy and paste it inside of the Mute_Checker script.
 
 ## User Options to Edit
 **xaxis:** This variable is used for the x axis of your screen (in pixels) (Moving Right)
