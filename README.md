@@ -5,7 +5,7 @@ This script is to locate the axis of where you want a Tkinter application (Made 
 This script includes the x, y, negativex, and negative y axis of your screen. This will print the axis so you can just copy and paste it inside of the Mute Checker script.
 
 (Video:)
-
+![](https://github.com/Malik403/axis_locator/blob/main/Animation.gif)
 
 
 (How-To:)
